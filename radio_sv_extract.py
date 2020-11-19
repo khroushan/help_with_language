@@ -11,21 +11,58 @@
 import feedparser
 from bs4 import BeautifulSoup
 
-# programid = 4916 for radio sweden på lätt svenska
-feed_api = "https://api.sr.se/api/rss/program/4916"
+svr_base_api = "https://api.sr.se/api/rss/program/"
+program_id = 4916 # programid = 4916 for radio sweden på lätt svenska
 
-raw = feedparser.parse(feed_api)
-print(raw.keys())
+########## 
+def get_raw_feed(api: str):
+    return feedparser.parse(api)
+
+########## 
+def get_feed_titles(raw):
+    num_entries = len(raw['entries'])
+    return  ['('+str(num)+') '+raw['entries'][num]['title'] for num in range(num_entries)]
+
+##########
+def get_news(raw, feed_num=0):
+    feed_html = raw['entries'][feed_num]['content'][0]['value']
+    return  BeautifulSoup(feed_html, 'html.parser').get_text()
+
+##########
+# fixed-length text
+def fixed_width(text, width:int = 70):
+    words = text.split()
+
+    fixed_width_text = ''
+    new_line = ''
+    for word in words:
+        new_line += ' ' + word
+        if len(new_line) >= width:
+            fixed_width_text += new_line + '\n'
+            new_line = ''
+    return fixed_width_text
+
+##########
+def fixed_width_v2(text):
+    # do that with wrapper library
+    return text
+
+########## 
+
+
+######################################## 
+raw = get_raw_feed(svr_base_api + str(program_id))
 num_entries = len(raw['entries'])
-print(num_entries)
+print("No  of entries: {}".format(num_entries))
+titles = get_feed_titles(raw)
+print('\n'.join(titles))
 
-feed_num = 4
+feed_num = int(input('Vilket amne är du intreserad?\n'))
+print(fixed_width(get_news(raw, feed_num)))
+# feed_html = raw['entries'][feed_num]['content'][0]['value']
+# feed_title = raw['entries'][feed_num]['title']
+# feed_text = BeautifulSoup(feed_html, 'html.parser').get_text()
 
-feed_html = raw['entries'][feed_num]['content'][0]['value']
-feed_title = raw['entries'][feed_num]['title']
-feed_text = BeautifulSoup(feed_html, 'html.parser').get_text()
-
-titles = [str(num)+'- '+raw['entries'][num]['title'] for num in range(num_entries)]
 html_list = [raw['entries'][num]['content'][0]['value'] for num in range(num_entries)]
 text_list = [BeautifulSoup(item, 'html.parser').get_text()  for item in html_list]
 text_all = '\n'.join(text_list)
@@ -38,29 +75,12 @@ def list_to_print(lst: list):
     
 # print(list_to_print(titles))
 
-feed_num = int(input('Vilket amne är du intreserad?\n'))
-feed_html = raw['entries'][feed_num]['content'][0]['value']
-feed_text = BeautifulSoup(feed_html, 'html.parser').get_text()
 
 ##########
-##########
-# fixed-length text
-def fixed_length(text, length:int = 70):
-    words = text.split()
-
-    fixed_width_text = ''
-    new_line = ''
-    for word in words:
-        new_line += ' ' + word
-        if len(new_line) >= 70:
-            fixed_width_text += new_line + '\n'
-            new_line = ''
-    return fixed_width_text
-##########
 
 
 
-print(fixed_length(feed_text, 60))
+# print(fixed_length(feed_text, 60))
 
 
 # TODO
