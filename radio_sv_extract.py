@@ -30,15 +30,11 @@ html_list = [raw['entries'][num]['content'][0]['value'] for num in range(num_ent
 text_list = [BeautifulSoup(item, 'html.parser').get_text()  for item in html_list]
 text_all = '\n'.join(text_list)
 unique_words = set(text_all.split())
-print(len(unique_words))
-print(unique_words)
+# print(len(unique_words))
+# print(unique_words)
 ########## 
 def list_to_print(lst: list):
     return '\n\n'.join(lst)
-##########
-def fixed_len_print(text: str, width:int  = 50):
-    return text[:70]
-########## 
     
 # print(list_to_print(titles))
 
@@ -47,5 +43,27 @@ feed_html = raw['entries'][feed_num]['content'][0]['value']
 feed_text = BeautifulSoup(feed_html, 'html.parser').get_text()
 
 ##########
+##########
+# fixed-length text
+def fixed_length(text, length:int = 70):
+    words = text.split()
 
-# print(feed_text)
+    fixed_width_text = ''
+    new_line = ''
+    for word in words:
+        new_line += ' ' + word
+        if len(new_line) >= 70:
+            fixed_width_text += new_line + '\n'
+            new_line = ''
+    return fixed_width_text
+##########
+
+
+
+print(fixed_length(feed_text, 60))
+
+
+# TODO
+# list of unique words: all unique words will be collected in this file
+# list of known words: this is personalized, I specify the unique words that I already know
+# print new words in different colors
