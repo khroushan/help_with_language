@@ -56,6 +56,7 @@ avtalsrörelse
 award
 badhus
 bara
+baren
 barer
 befinner
 befolkningen
@@ -67,15 +68,22 @@ behövs
 bekanta
 beklagar
 beror
+berusade
 berättade
 beslutet
 bestämde
+bestämt
+betala
 betyder
 betydligt
 bibliotek
 bilar
 billigare
 bio
+biografer
+biograferfilmstaden
+biograferna
+bios
 bland
 blandats
 blekinge
@@ -86,7 +94,9 @@ blivit
 blåser
 blåst
 bohuslän
+bolund
 bor
+bord
 borde
 bra
 branscher
@@ -114,6 +124,7 @@ böcker
 bökar
 börja
 började
+början
 börjar
 börjat
 campar
@@ -121,6 +132,7 @@ carlson
 cathrine
 chans
 chef
+chefen
 claesson
 corona
 coronakrisen
@@ -137,6 +149,7 @@ dalarna
 daniel
 de
 debatt
+deceber
 december
 del
 dela
@@ -164,6 +177,7 @@ divisionen
 djupt
 djuren
 dra
+drabbats
 dricker
 droger
 droppar
@@ -207,12 +221,14 @@ enkelt
 enligt
 ensam
 enskild
+eriksson
 eskalera
 ett
 eu
 europas
 europeiska
 evenemang
+exceptionella
 exempel
 experter
 experterexperter
@@ -242,6 +258,9 @@ filmerna
 filmfestival
 filmfestivalens
 filmfestivalnu
+filmstaden
+filmstadens
+finansmarknadsminister
 fine
 finns
 fira
@@ -251,9 +270,11 @@ flera
 flesta
 fly
 folk
+folkets
 folkhälsomyndigheten
 folkhälsomyndighetens
 folkkära
+fornstam
 fortfarande
 fortsatt
 fortsätta
@@ -311,7 +332,9 @@ gatan
 generalen
 genomsnitt
 ger
+gett
 gick
+ginko
 gjorde
 gjort
 glidande
@@ -342,6 +365,7 @@ gäller
 gäng
 gängallt
 gängen
+gäster
 gävleborg
 gå
 gånger
@@ -356,6 +380,8 @@ hade
 haft
 halka
 hallengren
+halv
+halvtimme
 han
 handel
 handeln
@@ -407,6 +433,7 @@ hur
 husby
 huset
 hyr
+hyra
 häktade
 häktat
 hälsa
@@ -446,6 +473,7 @@ idrottsevenemang
 igen
 igår
 ihop
+ikväll
 imorgon
 in
 inera
@@ -454,7 +482,9 @@ inför
 införts
 inga
 ingen
+inkomster
 innan
+inne
 inom
 inomhus
 inskrivna
@@ -482,6 +512,7 @@ johansson
 jorden
 ju
 jul
+juldagen
 julen
 julkapp
 julklapp
@@ -501,6 +532,7 @@ karin
 karlsson
 karlstad
 kartlägger
+katastrof
 kidnappning
 king
 klar
@@ -521,22 +553,26 @@ kommunen
 kommunist
 kommunistiska
 konflikter
+konkurs
 konsert
 konserter
 kontakta
 kopplad
 korridorer
 kort
+kostnaderna
 kraftfullt
 kraftigt
 kriminalitet
 kriminaliteten
 kriminalvården
 kriminella
+kris
 krisen
 kriser
 krisläge
 krogen
+kronor
 kroppen
 krävs
 kulturevenemang
@@ -587,11 +623,13 @@ lika
 liknar
 linda
 lite
+lokal
 lokala
 lov
 lugna
 lukt
 lyckades
+lyder
 lyssna
 läge
 lägenhetshus
@@ -617,6 +655,7 @@ långtidsarbetslösa
 långtidsarbetslösarekordmånga
 löfven
 lön
+lönen
 löner
 lönerna
 lördag
@@ -641,6 +680,7 @@ men
 mer
 mest
 middag
+miljarder
 mindre
 minska
 minskar
@@ -650,6 +690,7 @@ misshandel
 misstänkta
 modern
 mord
+morfar
 morgon
 morgonen
 mot
@@ -676,6 +717,8 @@ månad
 månader
 många
 mångdubbelt
+mårten
+mårtens
 måste
 möjlighet
 möjligt
@@ -688,6 +731,7 @@ nations
 natten
 nattklubbar
 naturen
+naturligtvis
 ner
 nio
 nog
@@ -744,6 +788,7 @@ omsorgen
 order
 ordförande
 ordföranden
+ordningslagen
 organisation
 organisationen
 organiserad
@@ -760,12 +805,14 @@ oxelösund
 packningen
 palmetzhofer
 pandemin
+papa
 par
 partier
 partiet
 partiledarna
 passar
 patric
+pengar
 per
 perfekt
 person
@@ -774,6 +821,7 @@ personerna
 personnummer
 persons
 personuppgifter
+peter
 pinocchio
 pjäsen
 planer
@@ -799,6 +847,8 @@ populära
 populärt
 positiva
 pratar
+premiär
+premiärer
 presshusets
 pressträff
 pressträffar
@@ -822,6 +872,7 @@ rapport
 rapporterade
 rapporterar
 raskens
+ray
 redan
 reform
 regeln
@@ -843,6 +894,8 @@ rektor
 resa
 research
 resor
+restaurang
+restaurangen
 restauranger
 restriktionen
 riksdagen
@@ -885,6 +938,7 @@ satsar
 scorsese
 se
 sedan
+senare
 senast
 senaste
 september
@@ -900,8 +954,10 @@ siffror
 sig
 signal
 sin
+sina
 sista
 sitt
+sitta
 sitter
 situation
 situationen
@@ -924,6 +980,7 @@ skadas
 skador
 skalan
 skarp
+skillnad
 skitbra
 skivor
 skjuta
@@ -945,6 +1002,7 @@ skådespelare
 skådespelaren
 sköter
 slog
+slutar
 smak
 smhi
 smitta
@@ -954,6 +1012,7 @@ smittas
 smittspridning
 smittspridningen
 smärtsam
+små
 snabbt
 snö
 snöat
@@ -989,6 +1048,7 @@ stan
 stannade
 stannar
 starka
+staten
 statsepidemiolog
 statsminister
 stefan
@@ -1016,9 +1076,14 @@ ställ
 ställas
 ställen
 stänga
+stängda
 stängdes
+stänger
 stängs
+stängt
+stå
 stöd
+stöden
 större
 störst
 största
@@ -1041,6 +1106,7 @@ säga
 säger
 säkerheten
 säkerhetsavdelning
+säkert
 sälja
 säljer
 sämre
@@ -1062,6 +1128,7 @@ taket
 tala
 talman
 tanken
+tappat
 tar
 teater
 teaterföreställningar
@@ -1092,10 +1159,13 @@ tillräckligt
 tillsammans
 timmar
 tingvallagymnasiet
+tio
 tisdag
+tjäna
 tjänar
 tog
 tolv
+tom
 ton
 torbjörn
 torsdag
@@ -1209,6 +1279,7 @@ veta
 vi
 via
 victor
+vid
 vidare
 videoskärm
 viktig
@@ -1228,7 +1299,9 @@ vindar
 vindarett
 vingårdsskötare
 vinodlingen
+vinter
 viruset
+visa
 visar
 visas
 visita
@@ -1305,6 +1378,8 @@ zetterström
 ökning
 ökningen
 öppet
+öppna
+öppnade
 örebro
 östra
 över
