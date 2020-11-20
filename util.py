@@ -30,7 +30,10 @@ def get_news(raw, feed_num=0):
 
 ##########
 # fixed-length text
-def fixed_width(text, width:int = 70):
+def my_fixed_width(text, width:int = 70):
+    """ apparently there is nice library 'textwrap' for it
+    don't reinvent a wheel
+    """
     words = text.split()
 
     fixed_width_text = ''
@@ -44,49 +47,33 @@ def fixed_width(text, width:int = 70):
 
 ##########
 from textwrap import fill
-def fixed_width_v2(text):
+def fixed_width(text):
     # do that with wrapper library
     return fill(text)
 
+#################### 
+# text coloring
+COLORS = {
+"nocolor":"\u001b[0m",
+"black":"\u001b[30;1m",
+"red": "\u001b[31;1m",
+"green":"\u001b[32m",
+"yellow":"\u001b[33;1m",
+"blue":"\u001b[34;1m",
+"magenta":"\u001b[35m",
+"cyan": "\u001b[36m",
+"white":"\u001b[37m",
+"yellow-background":"\u001b[43m",
+"black-background":"\u001b[40m",
+"cyan-background":"\u001b[46;1m",
+}
+#You can add more colors and backgrounds to the dictionary if you like.
+
 ########## 
-
-
-######################################## 
-raw = get_raw_feed(svr_base_api + str(program_id))
-num_entries = len(raw['entries'])
-print("No  of entries: {}".format(num_entries))
-titles = get_feed_titles(raw)
-print('\n'.join(titles))
-
-feed_num = int(input('Vilket amne är du intreserad?\n'))
-print(fixed_width(get_news(raw, feed_num)))
-print()
-print(fixed_width_v2(get_news(raw, feed_num)))
-# feed_html = raw['entries'][feed_num]['content'][0]['value']
-# feed_title = raw['entries'][feed_num]['title']
-# feed_text = BeautifulSoup(feed_html, 'html.parser').get_text()
-
-html_list = [raw['entries'][num]['content'][0]['value'] for num in range(num_entries)]
-text_list = [BeautifulSoup(item, 'html.parser').get_text()  for item in html_list]
-text_all = '\n'.join(text_list)
-unique_words = set(text_all.split())
-# print(len(unique_words))
-# print(unique_words)
+def colorText(text):
+    for color in COLORS:
+        text = text.replace("[[" + color + "]]", COLORS[color])
+    return text
 ########## 
-def list_to_print(lst: list):
-    return '\n\n'.join(lst)
-    
-# print(list_to_print(titles))
-
-
-##########
-
-
-
-# print(fixed_length(feed_text, 60))
-
-
-# TODO
-# list of unique words: all unique words will be collected in this file
-# list of known words: this is personalized, I specify the unique words that I already know
-# print new words in different colors
+def color_example():
+    print(COLORS["red"]+' red'+COLORS["white"]+' white'+ COLORS["nocolor"]+' white')
