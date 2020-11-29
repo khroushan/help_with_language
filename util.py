@@ -51,6 +51,15 @@ def fixed_width(text):
     # do that with wrapper library
     return fill(text)
 
+##########
+def new_words_replace(text, words_list):
+    for word in words_list:
+        text = text.replace(word, ' {'+word+'} ')
+        text = text.replace(word.capitalize(), ' {'+word.capitalize()+'} ')
+    return text
+
+
+
 #################### 
 # text coloring
 COLORS = {
@@ -67,6 +76,13 @@ COLORS = {
 "black-background":"\u001b[40m",
 "cyan-background":"\u001b[46;1m",
 }
+##########
+def new_words_color(text, words_list):
+    for word in words_list:
+        text = text.replace(word, COLORS["blue"] + word + COLORS["nocolor"])
+        text = text.replace(word.capitalize(), COLORS["blue"] + word.capitalize()+ COLORS["nocolor"])
+    return text
+
 #You can add more colors and backgrounds to the dictionary if you like.
 
 ########## 

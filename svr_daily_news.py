@@ -10,6 +10,7 @@
 ####################
 import feedparser
 from bs4 import BeautifulSoup
+from nltk.tokenize import word_tokenize
 import util as ut
 ####################
 
@@ -28,5 +29,25 @@ print('\n\n\n')
 print(titles[feed_num])
 print()
 news = ut.get_news(raw, feed_num)
-print(ut.fixed_width(news))
-ut.color_example()
+
+##########
+#  read personal known words
+file_word = open('known_words.txt', mode='r')
+known_words = file_word.read().split()
+file_word.close()
+##########
+# set of words in the feed
+word_list_raw = word_tokenize(news, language='swedish')
+word_list_lower = [word.lower() for word in word_list_raw if word.isalpha()]
+unique_words = sorted(set(word_list_lower))
+
+new_words_list = [w for w in unique_words if w not in known_words]
+
+# print(ut.fixed_width(news))
+
+# news_label_new_words = ut.new_words_replace(news.lower(), new_words_list)
+# print(ut.fixed_width(news_label_new_words))
+
+
+news_label_new_words = ut.new_words_color(news, new_words_list)
+print(ut.fixed_width(news_label_new_words))
