@@ -2,10 +2,14 @@ absolut
 achievement
 adress
 adresser
+advent
+adventskonserter
 affärer
 affärerna
+agenda
 ahlgren
 aktiviteter
+aktörer
 aldrig
 alkohol
 all
@@ -25,12 +29,14 @@ analyser
 analysera
 andel
 anders
+andersson
 andra
 andreas
 anhöriga
 anledning
 anna
 annan
+annars
 annat
 annika
 annorlunda
@@ -84,12 +90,14 @@ award
 backaplan
 bad
 badhus
+banade
 bara
 baren
 barer
 barn
 barns
 baylan
+bedömning
 befinner
 befolkningen
 begav
@@ -97,6 +105,7 @@ begravning
 begravningar
 begränsa
 behandlas
+behov
 behöva
 behöver
 behövs
@@ -114,9 +123,11 @@ beslutet
 bestämde
 bestämmer
 bestämt
+bestört
 besöka
 besökare
 besökt
+besökte
 betala
 betalat
 betyder
@@ -146,6 +157,7 @@ blåst
 boden
 boende
 boenden
+boendet
 bohuslän
 bok
 boka
@@ -171,6 +183,7 @@ brutalt
 bryter
 bränsle
 bränslen
+brå
 budgeten
 buteljeringen
 butiken
@@ -179,6 +192,7 @@ butikerdet
 butikerna
 bygga
 byggs
+bär
 bära
 bäst
 bästa
@@ -203,6 +217,7 @@ chans
 chef
 chefen
 chelsea
+christina
 claesson
 corona
 coronakrisen
@@ -226,8 +241,10 @@ dag
 dagar
 daglig
 dalarna
+damberg
 damer
 daniel
+danmark
 de
 debatt
 deceber
@@ -278,6 +295,7 @@ drabbats
 dressman
 dricker
 drivits
+drog
 droger
 droppar
 drottninggatan
@@ -286,15 +304,19 @@ dröjde
 dröm
 drömt
 du
+dubbelt
 där
 därför
 då
 dålig
 dåliga
 dåligt
+dö
 död
 döda
 döden
+dödliga
+dödsskjutningar
 dömda
 döpt
 dör
@@ -359,7 +381,9 @@ facket
 fackförbund
 fackförbundet
 faktabok
+faktiskt
 fall
+falun
 familj
 familjemedlemmarna
 familjen
@@ -367,6 +391,7 @@ familjer
 fanns
 fansen
 farväl
+faréus
 fattiga
 feber
 fel
@@ -412,6 +437,7 @@ folkhälsomyndigheten
 folkhälsomyndighetens
 folkkära
 fornstam
+forssell
 fortfarande
 fortsatt
 fortsätta
@@ -446,6 +472,7 @@ frågor
 från
 frøsaker
 full
+fulla
 fundera
 funderar
 fungerade
@@ -455,6 +482,7 @@ fyllde
 fyllt
 fyra
 fängelse
+färg
 färre
 få
 får
@@ -501,6 +529,7 @@ försvunnit
 försäkring
 försäkringskassan
 försäljning
+försöker
 försörja
 försörjning
 förut
@@ -513,6 +542,7 @@ ganska
 gata
 gatan
 ge
+generaldirektör
 generalen
 genom
 genomför
@@ -533,10 +563,13 @@ godis
 godkänt
 golvet
 gotland
+gott
 granath
 granevärn
 grannar
 granska
+granskar
+granskat
 gratis
 grep
 gripit
@@ -545,6 +578,7 @@ grov
 grovt
 grund
 grupp
+grupper
 gruppspelet
 gruvföretaget
 gruvor
@@ -557,6 +591,7 @@ guldboll
 guldbollen
 guldpengar
 gunnar
+gustaf
 gym
 gymnasieskolor
 gymnasieskolorna
@@ -579,6 +614,7 @@ göra
 görs
 götaland
 göteborg
+h
 ha
 hackare
 hade
@@ -598,6 +634,7 @@ handlade
 handlar
 handlat
 handsprit
+hans
 hanssons
 hantera
 hantverk
@@ -616,6 +653,7 @@ hemlandet
 hemleverans
 hemligheter
 hemma
+hemsida
 hemsöborna
 hen
 hennes
@@ -663,6 +701,7 @@ hyra
 hyran
 häktade
 häktat
+hälften
 hälsa
 hämnas
 hämta
@@ -678,6 +717,7 @@ håll
 hålla
 håller
 hår
+hård
 hårda
 hårdare
 hårdaste
@@ -692,6 +732,7 @@ höjas
 höjd
 höjs
 höll
+höra
 höst
 höstas
 hösten
@@ -706,6 +747,7 @@ idrottare
 idrottsevenemang
 igen
 igår
+ihjäl
 ihop
 ihåg
 ikväll
@@ -726,9 +768,12 @@ innan
 inne
 inom
 inomhus
+inrikesminister
 inskrivna
 inställda
 inte
+integrationsfråga
+integrerade
 intensivvård
 internet
 intervjuad
@@ -739,11 +784,13 @@ isabella
 istället
 italien
 italienska
+ivo
 ja
 jag
 jaga
 jagar
 jaktdet
+jan
 janssen
 januari
 jenny
@@ -753,6 +800,7 @@ jobbar
 jobbat
 jobben
 jobbet
+jobbiga
 johan
 johansson
 jorden
@@ -766,6 +814,8 @@ juli
 julkapp
 julklapp
 julklappar
+julkonsert
+julkonserter
 julmarknad
 julmarknaden
 juni
@@ -802,12 +852,14 @@ king
 kiruna
 klar
 klara
+klarade
 klart
 klassiker
 klimatet
 klimatetdet
 klimatkrisen
 klockan
+klockorna
 kläder
 knappt
 koka
@@ -825,6 +877,7 @@ kommit
 kommunalråd
 kommunen
 kommuner
+kommunerna
 kommunist
 kommunistiska
 kompisar
@@ -832,10 +885,14 @@ koncentrationssvårigheter
 konflikter
 konkurs
 konsert
+konserten
 konserter
+konserterna
 konstnär
 konstnären
+kontakt
 kontakta
+kontaktade
 kontaktat
 kontakter
 kontakterna
@@ -853,6 +910,7 @@ kriminalitet
 kriminaliteten
 kriminalvården
 kriminella
+kriminellt
 kris
 krisen
 kriser
@@ -862,6 +920,8 @@ kritik
 krogen
 kronor
 kroppen
+krubborna
+krävde
 krävs
 kul
 kulor
@@ -869,6 +929,7 @@ kulturevenemang
 kulturnytt
 kunde
 kunna
+kunnat
 kusiner
 kusten
 kvar
@@ -879,9 +940,14 @@ kvinnor
 kvällar
 kvällarna
 kvällen
+kyrka
 kyrkan
+kyrkans
 kyrkogård
 kyrkogården
+kyrkoherde
+kyrkor
+kyrkorna
 källare
 känd
 kända
@@ -890,6 +956,7 @@ känna
 känner
 känns
 känsliga
+kära
 kö
 köer
 kök
@@ -952,6 +1019,7 @@ lov
 luciafirandet
 luften
 lugna
+lugnande
 lukt
 lund
 lyckades
@@ -966,8 +1034,10 @@ lägger
 läggs
 lägre
 lägsta
+läkare
 läktare
 lämna
+lämnat
 länder
 länderna
 länet
@@ -984,6 +1054,7 @@ låg
 låga
 låglönefajten
 lång
+långa
 långsammare
 långstrump
 långt
@@ -1001,11 +1072,14 @@ lördag
 löven
 lövin
 magdalena
+makt
+makten
 malin
 malmö
 mamma
 man
 mannen
+mark
 markeringar
 markus
 mars
@@ -1020,7 +1094,10 @@ mattsson
 med
 medborgare
 meddelade
+media
+medicin
 mediciner
+medicinsk
 medier
 medlem
 mellan
@@ -1041,6 +1118,7 @@ miljöer
 miljön
 miljöpartiet
 miljöpartiets
+min
 mina
 mindre
 minimum
@@ -1051,11 +1129,14 @@ minsta
 minuter
 missa
 misshandel
+misslyckats
 misstänkta
+moderaterna
 moderato
 modern
 mord
 morfar
+morfin
 morgan
 morgon
 morgonen
@@ -1064,8 +1145,10 @@ motivationen
 museer
 musik
 musikaler
+musiken
 musklerna
 mycket
+myndighet
 myndigheten
 myndigheter
 myndigheterna
@@ -1079,6 +1162,8 @@ människor
 människorov
 människors
 märker
+märklig
+märkte
 märsta
 märta
 mästerskap
@@ -1098,11 +1183,13 @@ möjligtregionen
 mördare
 mörker
 mörkt
+mötas
 möte
 möten
 nackdelar
 namn
 narkotikabrott
+nationella
 nationen
 nations
 natten
@@ -1148,15 +1235,19 @@ nätter
 nätverk
 nå
 någon
+någons
 någonsin
 någonstans
 någonting
 något
 några
+nånting
 når
+nåt
 nödvändiga
 nöjespark
 nöjesparker
+oacceptabelt
 obehagligt
 och
 också
@@ -1180,6 +1271,8 @@ omdömet
 omfattande
 område
 områden
+områdena
+området
 omsorgen
 omständigheter
 ordentligt
@@ -1208,6 +1301,7 @@ oxelösund
 packningen
 paketet
 pall
+palliativ
 palmetzhofer
 pandemin
 papa
@@ -1220,11 +1314,13 @@ partiet
 partiets
 partiledare
 partiledarna
+partipolitisera
 partisekreterare
 passar
 patienter
 patric
 patrik
+pekat
 pengar
 pengardet
 pengarna
@@ -1255,6 +1351,7 @@ pojkartvå
 polis
 polischefen
 polisen
+polisens
 poliser
 poliserna
 polisers
@@ -1272,6 +1369,8 @@ positiva
 positivt
 postombud
 potentiellt
+prata
+pratade
 pratar
 precis
 premiär
@@ -1288,11 +1387,13 @@ priset
 privatliv
 problem
 problematisk
+problemen
 procent
 professionella
 program
 programmet
 protesterade
+präst
 prövas
 prövning
 publik
@@ -1300,6 +1401,7 @@ publiken
 publlik
 pumparna
 på
+påminna
 påminner
 påverkar
 rabén
@@ -1315,6 +1417,7 @@ rean
 redan
 reform
 regeln
+regeringar
 regeringen
 regeringensnart
 region
@@ -1369,6 +1472,7 @@ räcka
 räcker
 rädda
 rätt
+rättigheter
 råd
 rådande
 råden
@@ -1410,6 +1514,7 @@ satte
 scorsese
 se
 sedan
+segregationen
 sen
 senare
 senast
@@ -1419,6 +1524,7 @@ ser
 serie
 servera
 serverar
+service
 sex
 shoppa
 shoppar
@@ -1476,6 +1582,7 @@ skjut
 skjuta
 skjuter
 skjutit
+skjutits
 skjutningar
 skjutningarna
 skolan
@@ -1494,6 +1601,7 @@ skyddar
 skyldiga
 skådespelare
 skådespelaren
+sköra
 sköt
 sköter
 slog
@@ -1525,9 +1633,11 @@ snö
 snöat
 snöfall
 snöfallet
+sociala
 socialminister
 socialministern
 socialstyrelsen
+sofia
 sofie
 soldater
 soldaterna
@@ -1535,6 +1645,7 @@ solna
 solsidan
 som
 somras
+son
 sova
 sparkcykeln
 sparkcyklar
@@ -1562,7 +1673,9 @@ språket
 språkrör
 språkröret
 språkrörmiljöpartiet
+staaf
 staden
+stads
 stadsteater
 stammen
 stan
@@ -1573,6 +1686,7 @@ starka
 starkast
 starkaste
 staten
+statistik
 statsepidemiolog
 statsepidemiologen
 statsminister
@@ -1592,6 +1706,7 @@ stora
 stormkök
 stormköket
 stort
+straff
 strejk
 strejka
 strider
@@ -1609,6 +1724,7 @@ ställ
 ställa
 ställas
 ställen
+ställt
 stänga
 stängda
 stängdes
@@ -1660,6 +1776,7 @@ särskilt
 sätt
 så
 sådana
+såhär
 såklart
 sång
 sånger
@@ -1688,6 +1805,7 @@ tegmark
 tegnell
 teknik
 tekniken
+telefon
 telefonnummer
 telefonnumret
 tema
@@ -1699,6 +1817,7 @@ testats
 tester
 testerna
 the
+thomas
 tid
 tiden
 tider
@@ -1711,6 +1830,7 @@ tigrinja
 till
 tillbaka
 tillfällena
+tillgängliga
 tillräckligt
 tills
 tillsammans
@@ -1727,6 +1847,7 @@ tog
 tolfte
 tolv
 tom
+tomas
 tomma
 ton
 torbjörn
@@ -1795,6 +1916,7 @@ umgicks
 umgås
 under
 underkroppen
+underrättelseenhet
 undersöka
 undersöker
 undersökning
@@ -1842,6 +1964,7 @@ utsatta
 utsatte
 utser
 utsett
+utvecklingen
 vaccin
 vaccinen
 vaccinera
@@ -1870,6 +1993,7 @@ varje
 varken
 varnar
 vartannat
+vasa
 vecka
 veckan
 veckor
@@ -1914,12 +2038,14 @@ virusnivåer
 visa
 visar
 visas
+visat
 visita
 visitas
 vissa
 vm
 vunnit
 vuxen
+vuxit
 vuxna
 vädermyndigheten
 vägar
@@ -1930,8 +2056,10 @@ välja
 väljare
 väljarna
 väljer
+välkomnande
 vältränad
 vän
+vända
 vänner
 vännerna
 vänta
@@ -1945,6 +2073,7 @@ värme
 värmland
 värnplikt
 värnplikten
+värre
 värst
 värsta
 väska
@@ -1955,6 +2084,7 @@ västmanland
 västra
 vätgas
 växa
+växt
 växthusgaser
 vågar
 våld
@@ -1974,6 +2104,7 @@ vårdencoronaviruset
 vårdguiden
 våren
 vårt
+wallström
 webbsida
 webbsidan
 wisell
@@ -1987,6 +2118,7 @@ zoo
 äger
 ägs
 äldre
+äldreboende
 äldreboenden
 äldsta
 än
@@ -2004,7 +2136,9 @@ zoo
 år
 åren
 året
+åretde
 årets
+årigår
 årmånga
 åt
 åtalade
@@ -2029,6 +2163,7 @@ zoo
 överallt
 överens
 övergå
+överlevde
 översatta
 överste
 översten
